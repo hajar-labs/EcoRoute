@@ -106,3 +106,7 @@ This will open the interactive dashboard in your default web browser where you c
 - View optimized logistics data
 
 - Generate and download sustainability reports
+
+
+https://github.com/user-attachments/assets/4463e19b-6690-4f54-b218-5b65f238c43c
+
